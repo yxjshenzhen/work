@@ -1,2 +1,2 @@
-#[首页](youxiaojia.github.io/blog)
+#[首页](https://youxiaojia.github.io/blog)
 游晓佳博客
