@@ -1,0 +1,8 @@
+title: You’Blog
+description: 游晓佳博客
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
